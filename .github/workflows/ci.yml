@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout Code
-        uses: echo "checking code"
+        run: echo "checking code"
 
       - name: Print message
         run: echo "Pipeline is working 🚀"
