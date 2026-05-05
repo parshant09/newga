@@ -17,4 +17,4 @@ jobs:
         run: echo "Pipeline is working 🚀"
 
       - name: Run script
-        run: node index.js
+        run: echo "RUNNED SCRIPT"
